@@ -1,0 +1,90 @@
+# Python cache
+*.py[cod]
+__pycache__/
+
+app/env
+docker/env
+
+# Virtual environments
+v*env*/
+*v*env*
+/static/
+.vagrant/
+
+
+# Django specific
+
+## Django settings and URL configuration
+local_settings.py
+local_urls.py
+/backend/vis_integration/khabarovsk.ini
+
+## Debug mode media files
+/backend/media/
+
+
+# Build directories
+
+## Frontend build directory
+/frontend/**/build/
+/frontend/**/lib/
+
+## TypeScript
+*.tsbuildinfo
+
+## NPM packages
+node_modules/
+
+## Sphinx build directory
+/docs/build/
+
+
+# Testing tools
+
+## coverage
+backend/.coverage
+backend/htmlcov/
+
+
+# IDEs and editors
+
+## Universal editor configuration
+.editorconfig
+
+## Brackets
+.brackets.json
+
+## PyCharm
+.idea/
+
+## Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+## Visual Studio Code
+.vscode
+*.code-workspace
+
+
+# File managers
+
+## Explorer (Windows)
+Thumbs.db
+
+## Dolphin (KDE)
+.directory
+
+
+# Logs and temporary files
+*.log
+*.pid
+
+
+# Web servers
+
+## Gunicorn
+gunicorn.log
+gunicorn.pid
+start_gunicorn.sh
+stop_gunicorn.sh
+status_gunicorn.sh

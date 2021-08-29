@@ -1,0 +1,1102 @@
+[
+  {
+    "model": "shop.shop",
+    "pk": 1,
+    "fields": {
+      "name": "Maggio LLC",
+      "street": 12,
+      "house": 61,
+      "opening_time": "8:16:42.000",
+      "closing_time": "20:28:50.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 2,
+    "fields": {
+      "name": "Littel, Rodriguez and Goyette",
+      "street": 2,
+      "house": 77,
+      "opening_time": "9:33:17.000",
+      "closing_time": "18:31:18.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 3,
+    "fields": {
+      "name": "King, Powlowski and Osinski",
+      "street": 32,
+      "house": 76,
+      "opening_time": "11:02:48.000",
+      "closing_time": "19:30:10.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 4,
+    "fields": {
+      "name": "Feeney-Gutkowski",
+      "street": 8,
+      "house": 89,
+      "opening_time": "10:25:04.000",
+      "closing_time": "20:29:54.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 5,
+    "fields": {
+      "name": "Senger, Roob and Roob",
+      "street": 49,
+      "house": 1,
+      "opening_time": "11:31:07.000",
+      "closing_time": "20:34:55.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 6,
+    "fields": {
+      "name": "Blanda, Waters and Hessel",
+      "street": 28,
+      "house": 83,
+      "opening_time": "11:18:57.000",
+      "closing_time": "19:44:17.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 7,
+    "fields": {
+      "name": "Oberbrunner, Lockman and Bernier",
+      "street": 14,
+      "house": 77,
+      "opening_time": "10:54:36.000",
+      "closing_time": "21:22:50.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 8,
+    "fields": {
+      "name": "Streich, Schroeder and Kuphal",
+      "street": 33,
+      "house": 46,
+      "opening_time": "11:13:39.000",
+      "closing_time": "21:31:24.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 9,
+    "fields": {
+      "name": "O'Hara, Gulgowski and Kuhn",
+      "street": 48,
+      "house": 19,
+      "opening_time": "11:56:34.000",
+      "closing_time": "17:57:36.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 10,
+    "fields": {
+      "name": "Lockman, Hyatt and Spencer",
+      "street": 15,
+      "house": 9,
+      "opening_time": "9:25:10.000",
+      "closing_time": "19:49:51.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 11,
+    "fields": {
+      "name": "Torp-Dibbert",
+      "street": 47,
+      "house": 98,
+      "opening_time": "11:19:00.000",
+      "closing_time": "20:14:07.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 12,
+    "fields": {
+      "name": "Ziemann and Sons",
+      "street": 33,
+      "house": 46,
+      "opening_time": "10:22:59.000",
+      "closing_time": "18:10:45.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 13,
+    "fields": {
+      "name": "Harris Group",
+      "street": 17,
+      "house": 36,
+      "opening_time": "9:41:26.000",
+      "closing_time": "18:30:58.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 14,
+    "fields": {
+      "name": "Murazik, Trantow and Koch",
+      "street": 24,
+      "house": 82,
+      "opening_time": "11:27:06.000",
+      "closing_time": "18:41:41.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 15,
+    "fields": {
+      "name": "Crona, Kutch and Hartmann",
+      "street": 16,
+      "house": 70,
+      "opening_time": "11:15:04.000",
+      "closing_time": "19:44:30.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 16,
+    "fields": {
+      "name": "Hintz, Schmitt and Gleichner",
+      "street": 30,
+      "house": 47,
+      "opening_time": "11:00:51.000",
+      "closing_time": "20:35:17.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 17,
+    "fields": {
+      "name": "Kunde and Sons",
+      "street": 19,
+      "house": 49,
+      "opening_time": "10:34:34.000",
+      "closing_time": "17:34:06.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 18,
+    "fields": {
+      "name": "Bauch, Hayes and Lockman",
+      "street": 2,
+      "house": 9,
+      "opening_time": "10:16:22.000",
+      "closing_time": "21:20:43.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 19,
+    "fields": {
+      "name": "Bergstrom-Moen",
+      "street": 22,
+      "house": 22,
+      "opening_time": "11:34:06.000",
+      "closing_time": "21:06:25.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 20,
+    "fields": {
+      "name": "Leannon-Wolff",
+      "street": 37,
+      "house": 12,
+      "opening_time": "9:31:53.000",
+      "closing_time": "17:57:05.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 21,
+    "fields": {
+      "name": "Welch LLC",
+      "street": 18,
+      "house": 45,
+      "opening_time": "9:02:57.000",
+      "closing_time": "17:36:00.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 22,
+    "fields": {
+      "name": "Koch Group",
+      "street": 47,
+      "house": 1,
+      "opening_time": "10:26:58.000",
+      "closing_time": "18:39:26.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 23,
+    "fields": {
+      "name": "Ferry Inc",
+      "street": 48,
+      "house": 79,
+      "opening_time": "10:31:29.000",
+      "closing_time": "19:42:10.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 24,
+    "fields": {
+      "name": "Lindgren Group",
+      "street": 8,
+      "house": 58,
+      "opening_time": "10:13:48.000",
+      "closing_time": "21:08:11.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 25,
+    "fields": {
+      "name": "Christiansen-Parisian",
+      "street": 42,
+      "house": 34,
+      "opening_time": "9:23:34.000",
+      "closing_time": "18:15:02.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 26,
+    "fields": {
+      "name": "Brekke Group",
+      "street": 43,
+      "house": 88,
+      "opening_time": "9:17:41.000",
+      "closing_time": "21:45:35.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 27,
+    "fields": {
+      "name": "Toy, Howell and Bogisich",
+      "street": 24,
+      "house": 12,
+      "opening_time": "9:28:13.000",
+      "closing_time": "21:57:04.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 28,
+    "fields": {
+      "name": "Kuhn Inc",
+      "street": 42,
+      "house": 39,
+      "opening_time": "9:23:48.000",
+      "closing_time": "21:46:40.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 29,
+    "fields": {
+      "name": "Powlowski and Sons",
+      "street": 50,
+      "house": 10,
+      "opening_time": "9:19:56.000",
+      "closing_time": "19:27:34.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 30,
+    "fields": {
+      "name": "Glover, Carter and Klein",
+      "street": 3,
+      "house": 99,
+      "opening_time": "9:06:50.000",
+      "closing_time": "18:23:49.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 31,
+    "fields": {
+      "name": "Bogisich-Kuhn",
+      "street": 29,
+      "house": 78,
+      "opening_time": "11:39:15.000",
+      "closing_time": "17:07:52.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 32,
+    "fields": {
+      "name": "Gulgowski Inc",
+      "street": 10,
+      "house": 87,
+      "opening_time": "8:32:28.000",
+      "closing_time": "18:27:16.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 33,
+    "fields": {
+      "name": "Hickle-Vandervort",
+      "street": 11,
+      "house": 77,
+      "opening_time": "8:28:25.000",
+      "closing_time": "17:58:51.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 34,
+    "fields": {
+      "name": "Weissnat, Raynor and Stehr",
+      "street": 41,
+      "house": 9,
+      "opening_time": "10:32:42.000",
+      "closing_time": "21:06:33.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 35,
+    "fields": {
+      "name": "Koch-Gutkowski",
+      "street": 30,
+      "house": 33,
+      "opening_time": "10:35:49.000",
+      "closing_time": "21:50:34.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 36,
+    "fields": {
+      "name": "Hermiston and Sons",
+      "street": 40,
+      "house": 81,
+      "opening_time": "9:20:30.000",
+      "closing_time": "19:02:47.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 37,
+    "fields": {
+      "name": "McKenzie-Pacocha",
+      "street": 36,
+      "house": 79,
+      "opening_time": "8:36:02.000",
+      "closing_time": "20:41:50.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 38,
+    "fields": {
+      "name": "Ritchie, Emard and Stracke",
+      "street": 48,
+      "house": 70,
+      "opening_time": "11:03:25.000",
+      "closing_time": "17:53:38.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 39,
+    "fields": {
+      "name": "Glover, Pagac and Johnston",
+      "street": 38,
+      "house": 16,
+      "opening_time": "10:25:14.000",
+      "closing_time": "18:16:55.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 40,
+    "fields": {
+      "name": "Rolfson, Pfeffer and Altenwerth",
+      "street": 43,
+      "house": 83,
+      "opening_time": "10:41:37.000",
+      "closing_time": "21:30:55.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 41,
+    "fields": {
+      "name": "Ullrich, Rath and Klocko",
+      "street": 47,
+      "house": 80,
+      "opening_time": "11:40:06.000",
+      "closing_time": "18:57:03.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 42,
+    "fields": {
+      "name": "Rutherford-Hettinger",
+      "street": 50,
+      "house": 54,
+      "opening_time": "9:09:31.000",
+      "closing_time": "20:15:19.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 43,
+    "fields": {
+      "name": "Wolf-Doyle",
+      "street": 38,
+      "house": 29,
+      "opening_time": "10:32:16.000",
+      "closing_time": "19:48:59.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 44,
+    "fields": {
+      "name": "Mante and Sons",
+      "street": 23,
+      "house": 77,
+      "opening_time": "8:51:24.000",
+      "closing_time": "19:53:50.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 45,
+    "fields": {
+      "name": "Heidenreich-Ebert",
+      "street": 16,
+      "house": 54,
+      "opening_time": "10:04:52.000",
+      "closing_time": "17:48:48.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 46,
+    "fields": {
+      "name": "Beer-Bins",
+      "street": 20,
+      "house": 2,
+      "opening_time": "8:45:51.000",
+      "closing_time": "18:02:36.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 47,
+    "fields": {
+      "name": "Williamson, Zulauf and Wisoky",
+      "street": 11,
+      "house": 37,
+      "opening_time": "9:04:16.000",
+      "closing_time": "20:49:48.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 48,
+    "fields": {
+      "name": "Quitzon Inc",
+      "street": 9,
+      "house": 31,
+      "opening_time": "8:23:01.000",
+      "closing_time": "18:20:38.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 49,
+    "fields": {
+      "name": "Larkin-Mayer",
+      "street": 1,
+      "house": 90,
+      "opening_time": "8:05:38.000",
+      "closing_time": "20:04:27.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 50,
+    "fields": {
+      "name": "Thiel Group",
+      "street": 9,
+      "house": 28,
+      "opening_time": "8:26:58.000",
+      "closing_time": "20:30:02.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 51,
+    "fields": {
+      "name": "Roob-Beer",
+      "street": 38,
+      "house": 49,
+      "opening_time": "8:31:39.000",
+      "closing_time": "17:10:05.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 52,
+    "fields": {
+      "name": "Waelchi, Lind and Legros",
+      "street": 25,
+      "house": 37,
+      "opening_time": "8:47:07.000",
+      "closing_time": "18:44:03.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 53,
+    "fields": {
+      "name": "Schulist, Fritsch and Kerluke",
+      "street": 40,
+      "house": 68,
+      "opening_time": "10:46:10.000",
+      "closing_time": "20:11:44.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 54,
+    "fields": {
+      "name": "Koepp and Sons",
+      "street": 35,
+      "house": 3,
+      "opening_time": "10:22:05.000",
+      "closing_time": "19:27:39.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 55,
+    "fields": {
+      "name": "Runolfsson, Shanahan and Leannon",
+      "street": 19,
+      "house": 40,
+      "opening_time": "9:28:15.000",
+      "closing_time": "20:47:30.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 56,
+    "fields": {
+      "name": "Batz, Mraz and Harvey",
+      "street": 26,
+      "house": 48,
+      "opening_time": "10:03:07.000",
+      "closing_time": "19:30:37.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 57,
+    "fields": {
+      "name": "Langworth Inc",
+      "street": 46,
+      "house": 82,
+      "opening_time": "10:43:10.000",
+      "closing_time": "21:06:21.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 58,
+    "fields": {
+      "name": "Gulgowski LLC",
+      "street": 19,
+      "house": 83,
+      "opening_time": "11:38:24.000",
+      "closing_time": "19:02:21.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 59,
+    "fields": {
+      "name": "Bins Inc",
+      "street": 42,
+      "house": 27,
+      "opening_time": "11:30:42.000",
+      "closing_time": "19:52:35.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 60,
+    "fields": {
+      "name": "Jacobson-Hammes",
+      "street": 18,
+      "house": 81,
+      "opening_time": "9:01:51.000",
+      "closing_time": "17:50:57.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 61,
+    "fields": {
+      "name": "Kessler-VonRueden",
+      "street": 2,
+      "house": 76,
+      "opening_time": "10:53:04.000",
+      "closing_time": "21:51:16.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 62,
+    "fields": {
+      "name": "Adams, Hauck and Denesik",
+      "street": 1,
+      "house": 98,
+      "opening_time": "11:49:48.000",
+      "closing_time": "20:43:45.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 63,
+    "fields": {
+      "name": "Wolff Group",
+      "street": 12,
+      "house": 80,
+      "opening_time": "10:19:23.000",
+      "closing_time": "21:12:53.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 64,
+    "fields": {
+      "name": "Rempel, Considine and Larkin",
+      "street": 49,
+      "house": 1,
+      "opening_time": "8:48:36.000",
+      "closing_time": "17:23:07.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 65,
+    "fields": {
+      "name": "Daugherty Inc",
+      "street": 17,
+      "house": 61,
+      "opening_time": "8:41:32.000",
+      "closing_time": "20:23:56.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 66,
+    "fields": {
+      "name": "Kuhic Group",
+      "street": 43,
+      "house": 6,
+      "opening_time": "8:27:58.000",
+      "closing_time": "19:39:40.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 67,
+    "fields": {
+      "name": "Spencer, Kemmer and Beer",
+      "street": 46,
+      "house": 97,
+      "opening_time": "8:44:25.000",
+      "closing_time": "21:03:34.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 68,
+    "fields": {
+      "name": "Barton, Lowe and Armstrong",
+      "street": 36,
+      "house": 78,
+      "opening_time": "10:45:29.000",
+      "closing_time": "17:32:05.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 69,
+    "fields": {
+      "name": "Johns-McLaughlin",
+      "street": 19,
+      "house": 69,
+      "opening_time": "11:27:08.000",
+      "closing_time": "20:45:25.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 70,
+    "fields": {
+      "name": "Deckow-Kreiger",
+      "street": 41,
+      "house": 46,
+      "opening_time": "11:05:06.000",
+      "closing_time": "17:31:14.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 71,
+    "fields": {
+      "name": "Lindgren, Leannon and Crooks",
+      "street": 16,
+      "house": 67,
+      "opening_time": "9:03:25.000",
+      "closing_time": "19:43:52.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 72,
+    "fields": {
+      "name": "Gaylord, Ondricka and Klein",
+      "street": 10,
+      "house": 57,
+      "opening_time": "11:12:02.000",
+      "closing_time": "19:21:57.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 73,
+    "fields": {
+      "name": "Hyatt-Metz",
+      "street": 25,
+      "house": 68,
+      "opening_time": "8:35:09.000",
+      "closing_time": "19:53:49.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 74,
+    "fields": {
+      "name": "Hessel Inc",
+      "street": 44,
+      "house": 94,
+      "opening_time": "10:56:01.000",
+      "closing_time": "20:42:58.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 75,
+    "fields": {
+      "name": "Zulauf Group",
+      "street": 20,
+      "house": 68,
+      "opening_time": "11:58:33.000",
+      "closing_time": "18:30:59.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 76,
+    "fields": {
+      "name": "Langworth-Wolff",
+      "street": 8,
+      "house": 21,
+      "opening_time": "9:00:11.000",
+      "closing_time": "17:14:17.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 77,
+    "fields": {
+      "name": "Adams, Boyer and Pollich",
+      "street": 27,
+      "house": 50,
+      "opening_time": "10:42:52.000",
+      "closing_time": "19:10:59.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 78,
+    "fields": {
+      "name": "Casper Group",
+      "street": 38,
+      "house": 40,
+      "opening_time": "11:56:15.000",
+      "closing_time": "17:10:33.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 79,
+    "fields": {
+      "name": "Schmidt and Sons",
+      "street": 38,
+      "house": 34,
+      "opening_time": "9:01:10.000",
+      "closing_time": "21:34:14.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 80,
+    "fields": {
+      "name": "Paucek Inc",
+      "street": 11,
+      "house": 70,
+      "opening_time": "8:59:52.000",
+      "closing_time": "19:20:36.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 81,
+    "fields": {
+      "name": "Sipes and Sons",
+      "street": 24,
+      "house": 29,
+      "opening_time": "10:40:32.000",
+      "closing_time": "21:01:49.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 82,
+    "fields": {
+      "name": "Harber, Jacobs and Bernier",
+      "street": 2,
+      "house": 24,
+      "opening_time": "9:04:56.000",
+      "closing_time": "20:12:47.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 83,
+    "fields": {
+      "name": "Swift, Carroll and Schroeder",
+      "street": 33,
+      "house": 76,
+      "opening_time": "8:49:52.000",
+      "closing_time": "18:38:33.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 84,
+    "fields": {
+      "name": "McKenzie-Zboncak",
+      "street": 2,
+      "house": 26,
+      "opening_time": "11:26:57.000",
+      "closing_time": "20:17:27.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 85,
+    "fields": {
+      "name": "Hammes-McGlynn",
+      "street": 4,
+      "house": 92,
+      "opening_time": "11:25:34.000",
+      "closing_time": "20:34:07.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 86,
+    "fields": {
+      "name": "Gibson, Tillman and Yundt",
+      "street": 13,
+      "house": 43,
+      "opening_time": "9:39:28.000",
+      "closing_time": "17:34:05.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 87,
+    "fields": {
+      "name": "McGlynn and Sons",
+      "street": 21,
+      "house": 50,
+      "opening_time": "11:11:35.000",
+      "closing_time": "20:08:42.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 88,
+    "fields": {
+      "name": "Greenholt-Jakubowski",
+      "street": 4,
+      "house": 42,
+      "opening_time": "10:54:12.000",
+      "closing_time": "19:02:21.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 89,
+    "fields": {
+      "name": "Metz, Will and Moore",
+      "street": 18,
+      "house": 82,
+      "opening_time": "9:06:40.000",
+      "closing_time": "18:21:36.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 90,
+    "fields": {
+      "name": "Schaden-Conn",
+      "street": 41,
+      "house": 76,
+      "opening_time": "11:58:41.000",
+      "closing_time": "21:23:00.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 91,
+    "fields": {
+      "name": "Price, Emmerich and Deckow",
+      "street": 42,
+      "house": 89,
+      "opening_time": "11:22:26.000",
+      "closing_time": "19:49:36.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 92,
+    "fields": {
+      "name": "Reilly, Abbott and Koch",
+      "street": 36,
+      "house": 100,
+      "opening_time": "11:36:36.000",
+      "closing_time": "17:50:03.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 93,
+    "fields": {
+      "name": "Towne, Ankunding and Powlowski",
+      "street": 21,
+      "house": 39,
+      "opening_time": "9:27:57.000",
+      "closing_time": "19:22:14.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 94,
+    "fields": {
+      "name": "Morissette-Zemlak",
+      "street": 33,
+      "house": 47,
+      "opening_time": "8:15:58.000",
+      "closing_time": "18:39:23.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 95,
+    "fields": {
+      "name": "Kuphal Group",
+      "street": 14,
+      "house": 95,
+      "opening_time": "8:14:40.000",
+      "closing_time": "18:16:07.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 96,
+    "fields": {
+      "name": "Murazik-Romaguera",
+      "street": 22,
+      "house": 97,
+      "opening_time": "11:09:35.000",
+      "closing_time": "17:58:39.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 97,
+    "fields": {
+      "name": "Rempel Inc",
+      "street": 33,
+      "house": 16,
+      "opening_time": "9:22:50.000",
+      "closing_time": "20:14:32.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 98,
+    "fields": {
+      "name": "Grimes LLC",
+      "street": 6,
+      "house": 94,
+      "opening_time": "9:53:10.000",
+      "closing_time": "19:01:14.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 99,
+    "fields": {
+      "name": "Kulas-Jerde",
+      "street": 50,
+      "house": 30,
+      "opening_time": "9:46:32.000",
+      "closing_time": "21:42:18.000"
+    }
+  },
+  {
+    "model": "shop.shop",
+    "pk": 100,
+    "fields": {
+      "name": "Harris and Sons",
+      "street": 31,
+      "house": 6,
+      "opening_time": "9:30:10.000",
+      "closing_time": "17:30:40.000"
+    }
+  }
+]

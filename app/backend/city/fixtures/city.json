@@ -1,0 +1,72 @@
+[
+  {
+    "model": "city.city",
+    "pk": 1,
+    "fields": {
+      "name": "Castres"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 2,
+    "fields": {
+      "name": "Yingzhou"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 3,
+    "fields": {
+      "name": "Santa Cruz de El Seibo"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 4,
+    "fields": {
+      "name": "Wugong"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 5,
+    "fields": {
+      "name": "Red Hill"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 6,
+    "fields": {
+      "name": "Zhoujia"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 7,
+    "fields": {
+      "name": "Kebonsari"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 8,
+    "fields": {
+      "name": "Muraharjo"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 9,
+    "fields": {
+      "name": "Ristinummi"
+    }
+  },
+  {
+    "model": "city.city",
+    "pk": 10,
+    "fields": {
+      "name": "Guayatá"
+    }
+  }
+]

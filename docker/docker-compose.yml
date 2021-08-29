@@ -1,0 +1,65 @@
+version: "3.8"
+
+services:
+  web:
+    image: firecode_web
+    working_dir: /opt/app/backend
+    restart: unless-stopped
+    command: /opt/app/docker_venv/bin/gunicorn project.wsgi -b 0.0.0.0:80 --timeout 1800
+    volumes:
+      - ../app/:/opt/app
+    expose:
+      - 80
+    env_file:
+      - env
+  nginx:
+    image: firecode_nginx
+    restart: unless-stopped
+    volumes:
+      - ../app/:/opt/app
+      - ./nginx:/etc/nginx/conf.d
+    ports:
+      - 8000:80
+    depends_on:
+      - web
+  dev:
+    image: firecode_web
+    working_dir: /opt/app/backend
+    command: /opt/app/docker_venv/bin/python3 manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ../app/:/opt/app
+    ports:
+      - 8000:8000
+    env_file:
+      - env
+  python_install:
+    image: firecode_web
+    working_dir: /opt/app
+    command: >
+      sh -c "
+        /opt/app/docker_venv/bin/pip install --upgrade pip
+        /opt/app/docker_venv/bin/pip install -r requirements.txt
+        /opt/app/docker_venv/bin/pip install gunicorn"
+    volumes:
+      - ../app/:/opt/app
+    env_file:
+      - env
+  migrate_db:
+    image: firecode_web
+    working_dir: /opt/app/backend
+    command: /opt/app/docker_venv/bin/python3 manage.py migrate
+    volumes:
+      - ../app/:/opt/app
+    env_file:
+      - env
+  fixtures:
+    image: firecode_web
+    working_dir: /opt/app/backend
+    command: >
+      sh -c "/opt/app/docker_venv/bin/python3 manage.py loaddata city/fixtures/city.json
+             /opt/app/docker_venv/bin/python3 manage.py loaddata city/fixtures/street.json
+             /opt/app/docker_venv/bin/python3 manage.py loaddata shop/fixtures/shop.json"
+    volumes:
+      - ../app/:/opt/app
+    env_file:
+      - env
